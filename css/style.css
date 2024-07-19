@@ -756,10 +756,7 @@ a {
 
 }
 
-.icn {
-    fill: currentColor;
-}
 
-input:focus+.aaa {
+.my-form input:focus+.aaa {
     fill: #4D5AE5;
 }
