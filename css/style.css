@@ -401,7 +401,7 @@ a {
 
 .formlist {
     display: flex;
-
+    gap: 24px;
 }
 
 .content {
