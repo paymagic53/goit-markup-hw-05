@@ -418,6 +418,10 @@ a {
     color: #ffffff;
 }
 
+.inlist::placeholder {
+    color: #ffffff;
+}
+
 .content {
 
     align-items: baseline;
