@@ -399,6 +399,11 @@ a {
     color: #ffffff;
 }
 
+.form {
+    display: flex;
+    gap: 24px;
+}
+
 .content {
 
     align-items: baseline;
