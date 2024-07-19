@@ -442,6 +442,10 @@ a {
 
 }
 
+.lasts {
+    margin-left: 16px;
+}
+
 .content {
 
     align-items: baseline;
