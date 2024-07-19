@@ -390,6 +390,11 @@ a {
 
 }
 
+.form-container {
+    margin-left: 80PX;
+
+}
+
 .paragraph {
     margin-bottom: 16px;
     font-weight: 500;
