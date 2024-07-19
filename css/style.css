@@ -790,3 +790,7 @@ a {
 .difive {
     margin-bottom: 24px;
 }
+
+.lostin {
+    visually-hidden
+}
